@@ -1,0 +1,10 @@
+grpcio
+grpcio-tools
+pyjwt
+scikit-learn
+numpy
+pandas
+joblib
+cryptography
+xgboost
+ipykernel
