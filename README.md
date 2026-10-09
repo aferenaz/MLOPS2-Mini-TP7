@@ -1,0 +1,2 @@
+# MLOPS2-Mini-TP7
+Tp 7
